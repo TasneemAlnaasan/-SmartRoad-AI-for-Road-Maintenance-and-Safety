@@ -1,0 +1,30 @@
+# --- Core ---
+python-dotenv
+pandas
+numpy
+requests
+matplotlib
+ipykernel
+jupyter
+
+# --- Prediction + Maps 
+scikit-learn
+xgboost
+geopandas
+folium
+
+# --- RAG 
+groq
+pypdf
+chromadb
+sentence-transformers
+
+# --- Computer Vision 
+# ultralytics
+# opencv-python-headless
+
+# --- API + UI 
+# fastapi
+# uvicorn
+# streamlit
+# streamlit-folium
