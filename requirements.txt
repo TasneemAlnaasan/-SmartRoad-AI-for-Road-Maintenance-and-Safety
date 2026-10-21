@@ -28,3 +28,5 @@ sentence-transformers
 # uvicorn
 # streamlit
 # streamlit-folium
+
+dotenv
